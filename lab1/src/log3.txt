@@ -1,0 +1,6 @@
+src (master) $ chmod u-x hello.sh 
+src (master) $ ./hello.sh
+bash: ./hello.sh: Permission denied
+src (master) $ chmod u+x hello.sh 
+src (master) $ ./hello.sh
+Hello, world!
