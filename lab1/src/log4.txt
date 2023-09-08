@@ -1,0 +1,3 @@
+os_lab_2019 (master) $ ./lab1/src/average.sh < lab1/src/number.txt 
+кол-во входных параметров:150
+2.46667
